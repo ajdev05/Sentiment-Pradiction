@@ -2,3 +2,4 @@ transformers==4.15.0
 tensorflow==2.6.2
 requests
 urllib3
+torch==1.10.2
