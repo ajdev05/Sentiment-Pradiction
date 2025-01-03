@@ -29,8 +29,7 @@ pip install -r r.txt
 1. Place your financial news article in a file named `article.txt` in the project directory.
 
 2. Run the sentiment analysis script:
-```python main.py
-```
+```python main.py```
 
 ## Labels
 
