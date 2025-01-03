@@ -1,0 +1,4 @@
+transformers==4.15.0
+tensorflow==2.6.2
+requests
+urllib3
